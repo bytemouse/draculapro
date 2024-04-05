@@ -18,10 +18,10 @@ return {
    bright_magenta = "#FF80BF",
    bright_cyan = "#80FFEA",
    bright_white = "#F8F8F2",
-   menu = "#11111B",
+   menu = "#2A212C",
    visual = "#454158",
    gutter_fg = "#2A212C",
    nontext = "#7970A9",
    white = "#F8F8F2",
-   black = "#2A212C",
+   black = "#11111B",
 }
