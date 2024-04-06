@@ -23,8 +23,8 @@ return {
    bright_cyan = "#80FFEA",
    bright_white = "#F8F8F2", -- index 15
 
-   menu = "#000000",
-   visual = "#0000FF",
-   gutter_fg = "#00FF00",
-   nontext = "#FF0000",
+   menu = "#11111B",
+   visual = "#454158",
+   gutter_fg = "#2A212C",
+   nontext = "#7970A9",
 }
